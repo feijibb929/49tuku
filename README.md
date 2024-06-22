@@ -12,7 +12,8 @@
 确认飞机号，以防假冒！ —-最近有很多假飞机号，请注意……——
 
 前端截图
-https://github.com/feijibb929/49tuku/blob/main/photo_2024-06-22_11-43-43.jpg?raw=true
+![image](https://github.com/feijibb929/49tuku/assets/171640259/d20f574b-364c-4e98-a732-721e11497933)
+
 
 源代码截图
 ![image](https://github.com/feijibb929/49tuku/assets/171640259/46204d3c-a59d-4a78-ad03-84d9676b8a1b)
